@@ -1,0 +1,15 @@
+# 虚拟环境
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 打包产物
+build/
+dist/
+*.spec
+
+# 本地临时脚本与截图
+_*.py
+_*.png
